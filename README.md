@@ -1,7 +1,7 @@
-rai-
+rad-
 ====
 
-Radical Automotive Interface 
+Radical Automotive Devices  
 
 
 
